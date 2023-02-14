@@ -1,0 +1,77 @@
+body {
+    background-color: #0b1e2a;
+    display: flex;
+    justify-content: center;
+}
+
+.sectionPrincipal {
+    background-color: #102F43;
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: 600px;
+    border-radius: 5%;
+    margin-top: 5%;
+}
+
+.containerCounter {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.title {
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: 600;
+    color: #979a9a;
+}
+
+#number {
+    display: block;
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: 500;
+    color: #979a9a;
+    margin-bottom: 60px;
+}
+
+#btnMenos {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid 2px #3498db;
+    border-radius: 15px;
+    background-color: #0c2431;
+    color: #979a9a;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#btnR {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid 2px #3498db;
+    border-radius: 15px;
+    background-color: #0c2431;
+    color: #979a9a;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#btnMas {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid 2px #3498db;
+    border-radius: 15px;
+    background-color: #0c2431;
+    color: #979a9a;
+    font-size: 30px;
+    font-weight: 700;
+}
